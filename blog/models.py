@@ -6,3 +6,7 @@ class komal():
 
 class sagar(models.Model):
     pass
+
+class tina():
+    pass
+
