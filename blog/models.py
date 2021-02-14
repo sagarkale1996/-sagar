@@ -17,6 +17,9 @@ class appaji():
 class corona():
     pass
 
+class Mehfil():
+    pass
+
 
 
 
