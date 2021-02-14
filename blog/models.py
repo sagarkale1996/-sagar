@@ -4,3 +4,5 @@ from django.db import models
 class komal():
     pass
 
+class sagar(models.Model):
+    pass
