@@ -12,5 +12,11 @@ class tina():
 
 class tiny():
     pass
+class appaji():
+    pass
+class corona():
+    pass
+
+
 
 
