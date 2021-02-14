@@ -12,7 +12,6 @@ class MyMiddlewares:
 
     def Komal(self):
         pass
-
     def __init__(self,get_response):
         self.get_response=get_response
         print("One time Intialization")
