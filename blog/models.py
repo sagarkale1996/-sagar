@@ -5,22 +5,10 @@ from django.contrib.auth.models import User
 class Product(models.Model):
     name=models.ForeignKey(User,on_delete=models.CASCADE)
 
-class sagar(models.Model):
-    pass
 
-class tina():
-    pass
+class Order(models.Model):
+    Ord=models.OneToOneField(Product,on_delete=models.CASCADE)
 
-class tiny():
-    pass
-class appaji():
-    pass
-class corona():
-    pass
-
-class Mehfil():
-    pass
-
-
-
-
+class Placed(models.Model):
+    name=models.ManyToManyField(Order,)
+    placed=models.CharField(max_length=120)
