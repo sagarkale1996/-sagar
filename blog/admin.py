@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from django.contrib import admin
 
 # Register your models here.
@@ -17,3 +18,9 @@ class PlacedAdmin(admin.ModelAdmin):
     list_display = ['placed']
 admin.site.register(Placed,PlacedAdmin)
 
+=======
+class admin():
+    pass
+class korona():
+    pass
+>>>>>>> test
