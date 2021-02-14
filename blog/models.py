@@ -10,3 +10,7 @@ class sagar(models.Model):
 class tina():
     pass
 
+class tiny():
+    pass
+
+
