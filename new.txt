@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 commit 1 from local
 adde on online
 from ur editor
-=======
+
 commit 1 from local
->>>>>>> parent of 74cb74e (Update new.txt)
+
