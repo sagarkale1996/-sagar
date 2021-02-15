@@ -25,4 +25,7 @@ class MyMiddlewares:
         response= self.get_response(request)
         print("This is after view")
         return response
+    def __str__(self):
+        pass
+
 
