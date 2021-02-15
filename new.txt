@@ -1,5 +1,5 @@
 
-commit 1 from local
+wcommit 1 from local
 <<<<<<< HEAD
 adde on online
 from ur editor
