@@ -1,0 +1,15 @@
+
+commit 1 from local
+<<<<<<< HEAD
+adde on online
+from ur editor
+
+commit 1 from local
+<<<<<<< HEAD
+=======
+>>>>>>> 2edc43cd45dcf0b2ee07ea5b71e03421bceffcdd
+
+=======
+adde on online
+from  server browser
+>>>>>>> parent of 2edc43c (Update new.txt)
