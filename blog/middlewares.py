@@ -26,3 +26,6 @@ class MyMiddlewares:
         print("This is after view")
         return response
 
+    def __add__(self, other):
+        pass
+
