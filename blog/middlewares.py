@@ -1,4 +1,5 @@
-'''def my_middleware(get_response):
+'''
+def my_middleware(get_response):
     print("one time execution")
 
     def my_function(request):
@@ -6,7 +7,8 @@
         response=get_response(request)
         print("this is after view")
         return response
-    return my_function'''
+    return my_function
+'''
 
 class MyMiddlewares:
 
